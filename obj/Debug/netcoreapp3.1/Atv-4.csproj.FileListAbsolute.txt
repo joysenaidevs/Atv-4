@@ -1,0 +1,13 @@
+C:\Users\DEV\Desktop\Atv-4\bin\Debug\netcoreapp3.1\Atv-4.exe
+C:\Users\DEV\Desktop\Atv-4\bin\Debug\netcoreapp3.1\Atv-4.deps.json
+C:\Users\DEV\Desktop\Atv-4\bin\Debug\netcoreapp3.1\Atv-4.runtimeconfig.json
+C:\Users\DEV\Desktop\Atv-4\bin\Debug\netcoreapp3.1\Atv-4.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\Atv-4\bin\Debug\netcoreapp3.1\Atv-4.dll
+C:\Users\DEV\Desktop\Atv-4\bin\Debug\netcoreapp3.1\Atv-4.pdb
+C:\Users\DEV\Desktop\Atv-4\obj\Debug\netcoreapp3.1\Atv-4.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\Atv-4\obj\Debug\netcoreapp3.1\Atv-4.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\Atv-4\obj\Debug\netcoreapp3.1\Atv-4.AssemblyInfo.cs
+C:\Users\DEV\Desktop\Atv-4\obj\Debug\netcoreapp3.1\Atv-4.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\Atv-4\obj\Debug\netcoreapp3.1\Atv-4.dll
+C:\Users\DEV\Desktop\Atv-4\obj\Debug\netcoreapp3.1\Atv-4.pdb
+C:\Users\DEV\Desktop\Atv-4\obj\Debug\netcoreapp3.1\Atv-4.genruntimeconfig.cache
